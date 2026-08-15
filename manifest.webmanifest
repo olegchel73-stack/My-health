@@ -1,0 +1,19 @@
+{
+  "name": "Моё здоровье",
+  "short_name": "Здоровье",
+  "description": "Личный трекер анализов и динамики здоровья",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f0fdfa",
+  "theme_color": "#0f766e",
+  "orientation": "portrait-primary",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
